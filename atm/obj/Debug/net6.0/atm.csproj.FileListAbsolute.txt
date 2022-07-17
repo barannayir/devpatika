@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\bin\Debug\net6.0\atm.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\bin\Debug\net6.0\atm.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\bin\Debug\net6.0\atm.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\bin\Debug\net6.0\atm.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\bin\Debug\net6.0\atm.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\refint\atm.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\atm.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\atm\obj\Debug\net6.0\ref\atm.dll

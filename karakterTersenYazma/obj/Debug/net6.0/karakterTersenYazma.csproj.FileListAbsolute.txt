@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\bin\Debug\net6.0\karakterTersenYazma.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\bin\Debug\net6.0\karakterTersenYazma.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\bin\Debug\net6.0\karakterTersenYazma.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\bin\Debug\net6.0\karakterTersenYazma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\bin\Debug\net6.0\karakterTersenYazma.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\refint\karakterTersenYazma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\karakterTersenYazma.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\karakterTersenYazma\obj\Debug\net6.0\ref\karakterTersenYazma.dll

@@ -1,0 +1,5 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\barcodeGen\obj\Debug\net6.0\barcodeGen.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\barcodeGen\obj\Debug\net6.0\barcodeGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\barcodeGen\obj\Debug\net6.0\barcodeGen.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\barcodeGen\obj\Debug\net6.0\barcodeGen.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\barcodeGen\obj\Debug\net6.0\barcodeGen.csproj.CoreCompileInputs.cache

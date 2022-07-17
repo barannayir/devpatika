@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\bin\Debug\net6.0\algoritma.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\bin\Debug\net6.0\algoritma.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\bin\Debug\net6.0\algoritma.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\bin\Debug\net6.0\algoritma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\bin\Debug\net6.0\algoritma.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\refint\algoritma.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\algoritma.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\algoritma\obj\Debug\net6.0\ref\algoritma.dll

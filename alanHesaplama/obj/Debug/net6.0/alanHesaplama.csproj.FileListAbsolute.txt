@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\bin\Debug\net6.0\alanHesaplama.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\bin\Debug\net6.0\alanHesaplama.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\bin\Debug\net6.0\alanHesaplama.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\bin\Debug\net6.0\alanHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\bin\Debug\net6.0\alanHesaplama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\refint\alanHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\alanHesaplama.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\alanHesaplama\obj\Debug\net6.0\ref\alanHesaplama.dll

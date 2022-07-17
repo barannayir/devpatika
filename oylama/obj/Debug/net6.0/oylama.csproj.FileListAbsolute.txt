@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\bin\Debug\net6.0\oylama.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\bin\Debug\net6.0\oylama.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\bin\Debug\net6.0\oylama.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\bin\Debug\net6.0\oylama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\bin\Debug\net6.0\oylama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\refint\oylama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\oylama.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\oylama\obj\Debug\net6.0\ref\oylama.dll
