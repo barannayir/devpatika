@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\bin\Debug\net6.0\ucgenCizme.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\bin\Debug\net6.0\ucgenCizme.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\bin\Debug\net6.0\ucgenCizme.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\bin\Debug\net6.0\ucgenCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\bin\Debug\net6.0\ucgenCizme.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\refint\ucgenCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ucgenCizme.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ucgenCizme\obj\Debug\net6.0\ref\ucgenCizme.dll

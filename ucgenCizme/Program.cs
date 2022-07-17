@@ -1,4 +1,4 @@
-
+﻿
 while (true)
 {
     Console.WriteLine("Lütfen boyut bilgisi giriniz: ");

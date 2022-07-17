@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\bin\Debug\net6.0\ortalamaHesaplama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\refint\ortalamaHesaplama.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ortalamaHesaplama.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\ortalamaHesaplama\obj\Debug\net6.0\ref\ortalamaHesaplama.dll

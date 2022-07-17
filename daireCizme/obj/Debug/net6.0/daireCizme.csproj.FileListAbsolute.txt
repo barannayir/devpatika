@@ -1,0 +1,15 @@
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\bin\Debug\net6.0\daireCizme.exe
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\bin\Debug\net6.0\daireCizme.deps.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\bin\Debug\net6.0\daireCizme.runtimeconfig.json
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\bin\Debug\net6.0\daireCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\bin\Debug\net6.0\daireCizme.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.csproj.AssemblyReference.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.AssemblyInfoInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.AssemblyInfo.cs
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.csproj.CoreCompileInputs.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\refint\daireCizme.dll
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.pdb
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\daireCizme.genruntimeconfig.cache
+C:\Users\baran\OneDrive\Belgeler\GitHub\devpatika\daireCizme\obj\Debug\net6.0\ref\daireCizme.dll
